@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+Greetings! 
 
-You can use the [editor on GitHub](https://github.com/xueyanlipku/xueyanlipku.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<br>
 
-### Markdown
+# Academic Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### University of Texas at Dallas
+  - PhD in Geophysics, 2016 - expected 2021
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Peking University 
+  - BS in Geophysics, 2012 - 2016
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+<br>
 
-**Bold** and _Italic_ and `Code` text
+# Publications
 
-[Link](url) and ![Image](src)
-```
+See [[Google Scholar](https://scholar.google.com/citations?user=4YCam8UAAAAJ&hl=en&oi=ao)]. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 2019
 
-### Jekyll Themes
+- A finite-difference approach for solving pure quasi-P-wave equations in transversely isotropic and orthorhombic media. <br>
+  **X Li**, H Zhu.
+  Geophysics 83 (4), C161-C172
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xueyanlipku/xueyanlipku.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Inversion of ocean-bottom seismometer (OBS) waveforms for oceanic crust structure: a synthetic study. <br>
+  **X Li**, Y Wang, YJ Chen.
+  Earthquake Science 29 (4), 203-213
+  
 
-### Support or Contact
+<br>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<br>
+
+# Experience
+
+
+### ConocoPhillips  (05/2018 - 08/2018)
+  - Geophysicist Intern
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+Updated: September 21, 2019
+
