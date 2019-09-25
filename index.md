@@ -1,6 +1,6 @@
 Greetings! I am currently a 4th-year PhD student in Seismology at University of Texas at Dallas. My supervisor is Prof. [Hejun Zhu](https://scholar.google.com/citations?user=dCUgUwYAAAAJ&hl=en).
 
-My research focuses on investigating the radial and azimuthal anisotropy structure of Australian Plate using adjoint tomography. Besides, I am also interested in resolution evaluation of inverted model, wave equation modeling and imaging techniques as well as code optimization for scientific computing package, e.g. [SPECFEM3D_GLOBE](https://geodynamics.org/cig/software/specfem3d_globe/).
+My research focuses on investigating the radial and azimuthal anisotropy structure of Australian Plate using adjoint tomography. Besides, I am also interested in resolution evaluation of inverted model, wave equation modeling and imaging techniques, as well as code optimization for scientific computing packages, e.g. [SPECFEM3D_GLOBE](https://geodynamics.org/cig/software/specfem3d_globe/).
 
 
 <br>
