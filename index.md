@@ -1,4 +1,4 @@
-Greetings! 
+Greetings! I am currently a 4th-year PhD student in Seismology at University of Texas at Dallas. My research is focusing on investigating the radial and azimuthal anisotropy structure of Australian Plate using adjoint tomography. Besides, I am also interested in resolution evaluation of inverted model, wave equation modeling and imaging techniques.
 
 
 <br>
@@ -6,7 +6,7 @@ Greetings!
 # Academic Experience
 
 ### University of Texas at Dallas
-  - PhD in Geophysics, 2016 - expected 2021
+  - PhD in Geosciences, 2016 - expected 2021
 
 
 ### Peking University 
