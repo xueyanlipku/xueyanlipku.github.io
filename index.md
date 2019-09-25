@@ -15,11 +15,14 @@ My research focuses on investigating the radial and azimuthal anisotropy structu
   - BS in Geophysics, 2012 - 2016
 
 
+
+
 # Publications
 
 Please check [Google Scholar](https://scholar.google.com/citations?user=4YCam8UAAAAJ&hl=en&oi=ao). 
 
-<br>
+
+
 
 # Work Experience
 
