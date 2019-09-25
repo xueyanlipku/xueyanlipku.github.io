@@ -17,14 +17,12 @@ My research focuses on investigating the radial and azimuthal anisotropy structu
 
 <br>
 
-
-
 # Publications
 
 Please check [Google Scholar](https://scholar.google.com/citations?user=4YCam8UAAAAJ&hl=en&oi=ao). 
 
-<br>
 
+<br>
 
 # Work Experience
 
