@@ -1,2 +1,8 @@
 theme: jekyll-theme-minimal
 title: Xueyan Li
+social-network-links:
+  rss: true
+  email: "someone@example.com"
+  facebook: deanattali
+  github: daattali
+  twitter: daattali
