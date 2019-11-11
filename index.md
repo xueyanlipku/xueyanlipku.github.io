@@ -23,9 +23,9 @@ Please check [Google Scholar](https://scholar.google.com/citations?user=4YCam8UA
 
 <br>
 
-# Invited Talks
+# Invited Conference & Workshop Talks
 
- "Seismic Anisotropy beneath the Tonga Subduction Zone using full-waveform inversion", Center for Tectonics and Tomography, University of Houston, USA, Nov. 2019
+ "Seismic anisotropy beneath the Tonga Subduction Zone using full-waveform inversion", Center for Tectonics and Tomography, University of Houston, USA, Nov. 2019
 
 <br>
 
