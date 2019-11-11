@@ -21,7 +21,9 @@ My research focuses on investigating the radial and azimuthal anisotropy structu
 
 Please check [Google Scholar](https://scholar.google.com/citations?user=4YCam8UAAAAJ&hl=en&oi=ao). 
 
-# Invited talks
+<br>
+
+# Invited Talks
 
  "Seismic Anisotropy beneath the Tonga Subduction Zone using full-waveform inversion", Center for Tectonics and Tomography, University of Houston, USA, Nov. 2019
 
@@ -47,5 +49,5 @@ Please check [Google Scholar](https://scholar.google.com/citations?user=4YCam8UA
 <br>
 
 
-Most recent update: September 25th, 2019
+Most recent update: November 10th, 2019
 
