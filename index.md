@@ -19,7 +19,7 @@ My research focuses on investigating the radial and azimuthal anisotropy structu
 
 # Publications
 
-Please check out [Google Scholar](https://scholar.google.com/citations?user=4YCam8UAAAAJ&hl=en&oi=ao). 
+Please check out my [Google Scholar](https://scholar.google.com/citations?user=4YCam8UAAAAJ&hl=en&oi=ao). 
 
 <br>
 
