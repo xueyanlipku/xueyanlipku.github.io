@@ -8,7 +8,7 @@ My research focuses on investigating the radial and azimuthal anisotropy structu
 # Academic Experience
 
 ### University of Texas at Dallas
-  - PhD in Geosciences, 2016 - expected 2021
+  - PhD in Geosciences, 2016 - expected 2021 winter or 2022 spring (who knows) 
 
 
 ### Peking University 
@@ -23,8 +23,10 @@ Please check out my [Google Scholar](https://scholar.google.com/citations?user=4
 
 <br>
 
-# Invited Talks
-
+# Invited Talks (AGU excluded)
+ 
+ "Seismic anisotropy beneath the Tonga Subduction Zone based on adjoint tomography", Lamont-Doherty Earth Observatory, Columbia University, USA, Mar. 2020
+ 
  "Seismic anisotropy beneath the Tonga Subduction Zone using full-waveform inversion", Center for Tectonics and Tomography, University of Houston, USA, Nov. 2019
 
 <br>
