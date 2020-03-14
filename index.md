@@ -27,7 +27,6 @@ Please check out my [Google Scholar](https://scholar.google.com/citations?user=4
 
 # Presentations (AGU excluded)
  
- "Seismic anisotropy beneath the Tonga Subduction Zone based on adjoint tomography", Seismology Student Workshop at Lamont-Doherty Earth Observatory, USA, Mar. 2020
  
  "Seismic anisotropy beneath the Tonga Subduction Zone using full-waveform inversion", Center for Tectonics and Tomography, University of Houston, USA, Nov. 2019
 
