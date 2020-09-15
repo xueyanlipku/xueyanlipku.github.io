@@ -1,4 +1,4 @@
-Greetings! I am currently a 4th-year PhD student in Seismology at University of Texas at Dallas. My supervisor is Prof. [Hejun Zhu](https://scholar.google.com/citations?user=dCUgUwYAAAAJ&hl=en). My research focuses on investigating the radial and azimuthal anisotropy structure of Australian Plate using adjoint tomography. 
+Greetings! I am currently a 5th-year PhD student in Seismology at University of Texas at Dallas. My supervisor is Prof. [Hejun Zhu](https://scholar.google.com/citations?user=dCUgUwYAAAAJ&hl=en). My research focuses on investigating the radial and azimuthal anisotropy structure of Australian Plate using adjoint tomography. 
 
 Inverted wave-speed perturbation throws light on the cratonic lithosphere thickness of continental Australia, as well as the slab morphology of surrounding subduction zones (Tonga-Kermadec-Hikurangi, New Hebrides and Java). Fast-axis direction of azimuthal anisotropy not only shows the frozen-in deformation within the lithosphere, but unveils the mantle flow in the upper mantle. This enables us to infer the dynamic process inside the Earth. 
 
@@ -26,7 +26,9 @@ Please check out my [Google Scholar](https://scholar.google.com/citations?user=4
 <br>
 
 # Presentations (AGU excluded)
- 
+ "Moment tensor inversion for deep earthquakes at the Tonga-Kermadec subduction zone using 3-D Green’s functions", SCEC 2020 Annual Meeting, USA, Sept. 2020 [pdf](https://github.com/xueyanlipku/pdfs/blob/master/SCEC2020_xueyan_v3.pdf)
+
+ "Seismic anisotropy beneath the Tonga Subduction Zone based on adjoint tomography", Seismology Student Workshop at Lamont-Doherty Earth Observatory, USA, (Cancelled)
  
  "Seismic anisotropy beneath the Tonga Subduction Zone using full-waveform inversion", Center for Tectonics and Tomography, University of Houston, USA, Nov. 2019
 
