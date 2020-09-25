@@ -10,7 +10,7 @@ In addition to my phd thesis research, I am also interested in resolution evalua
 # Academic Experience
 
 ### University of Texas at Dallas
-  - PhD in Geosciences, 2016 Fall - 2021 Spring/Summer (expected) 
+  - PhD in Geosciences, 2016 Fall - 2021 Fall (expected) 
 
 
 ### Peking University 
@@ -54,5 +54,5 @@ Please check out my [Google Scholar](https://scholar.google.com/citations?user=4
 <br>
 
 
-Most recent update: February 2nd, 2020
+Most recent update: September 25th, 2020
 
